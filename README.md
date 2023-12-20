@@ -1,2 +1,10 @@
-# ML-CV-AI-practices
-experiments of Machine Learning - Image Processing - Computer Vision
+
+### Experiments of popular/fundamental algorithms of 
+####  -  Machine Learning (coded from scratch), 
+####  -  Image Processing with mathematical/statistical methods, 
+####  -  Computer Vision.
+
+<br>
+
+#### Technologies: Python, OpenCV, PyTorch. 
+
